@@ -1,0 +1,6 @@
+[submodule "test-wr"]
+	path = test-wr
+	url = https://github.com/tuliopss/test-wr.git
+[submodule "test-wr-front"]
+	path = test-wr-front
+	url = https://github.com/tuliopss/test-wr-front.git
